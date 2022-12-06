@@ -19,7 +19,7 @@ const Navbar = (props: Props) => {
             className="cursor-pointer"
             src={Logo}
             alt="tiktik"
-            layout="responsive"
+          
           />
         </div>
       </Link>
